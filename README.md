@@ -8,7 +8,7 @@ which stands for term frequency—inverse document frequency. This is an analysi
 understand how important a word is to a document in a set of documents. This serves as a feature vector
 that's used to categorize documents.
 
- ****sentiment of a sentence****
+ ****SENTIMENT OF A SENTENCE****
 
  
  Sentiment analysis is one of the most popular applications of NLP. Sentiment analysis refers to the
@@ -17,7 +17,7 @@ consider "neutral" as a third option. This technique is commonly used to discove
 a particular topic. This is used to analyze sentiments of users in various forms, such as marketing
 campaigns, social media, e-commerce customers, and so on.
 
-****Identifying the gender****
+****IDENTIFYING THE GRNDER****
 
 
 Identifying the gender of a name is an interesting task in NLP. We will use the heuristic that the last few
